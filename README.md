@@ -9,5 +9,5 @@ I couldn't find any color picker made for swift which fulfilled my requirement o
 
 Credits - 
 
-Color Map - https://stackoverflow.com/a/34142316/6886672 
+Color Map - https://stackoverflow.com/a/34142316/6886672 <br>
 UIColor Extension - https://github.com/yeahdongcn/UIColor-Hex-Swift
