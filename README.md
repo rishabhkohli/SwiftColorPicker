@@ -8,5 +8,6 @@ I couldn't find any color picker made for swift which fulfilled my requirement o
 <img src="https://github.com/rishabhkohli/SwiftColorPicker/blob/master/SwiftColorPicker.png?raw=true">
 
 Credits - 
-Color Map - https://stackoverflow.com/a/34142316/6886672
+
+Color Map - https://stackoverflow.com/a/34142316/6886672 
 UIColor Extension - https://github.com/yeahdongcn/UIColor-Hex-Swift
