@@ -102,7 +102,7 @@ class ColorPickerView : UIView {
 		return CGPoint(x: xPos, y: yPos)
 	}
 	
-	func touchedColor(gestureRecognizer: UILongPressGestureRecognizer){
+	@objc func touchedColor(gestureRecognizer: UILongPressGestureRecognizer){
 		let point = gestureRecognizer.location(in: self)
 		
 		var sanitizedPoint = point

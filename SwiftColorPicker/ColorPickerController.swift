@@ -77,11 +77,11 @@ public class ColorPickerController: UIViewController, ColorPickerViewDelegate, U
 		}
 	}
 	
-	func dismissSelf() {
+	@objc func dismissSelf() {
 		self.dismiss(animated: true, completion: nil)
 	}
 	
-	func save() {
+	@objc func save() {
 		delegate?.colorSelected(id: id, color: newColor)
 		dismissSelf()
 	}
